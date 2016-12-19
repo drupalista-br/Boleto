@@ -1,0 +1,12 @@
+{
+  "name": "smarkio/smarkio-boleto",
+  "description": "Fork from drupalista-br/Boleto in order to generate boletos in Smarkio",
+  "minimum-stability": "stable",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "SMARKIO Developers",
+      "email": "developers@smark.io"
+    }
+  ]
+}
